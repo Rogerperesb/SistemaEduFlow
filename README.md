@@ -63,7 +63,7 @@ Este é um projeto puramente de front-end. Para executá-lo, siga os passos abai
 
   **Credenciais para teste (aluno):**
 
-  - **Email do aluno:** `aluno@unip.b`
+  - **Email do aluno:** `aluno@unip.br`
   - **Senha (RA):** `123456`
 
 ## 📂 Estrutura do Projeto
@@ -95,4 +95,5 @@ SistemaEduFlow/
   - [ ] Implementar um sistema de upload de arquivos para as entregas das atividades.
   - [ ] Adicionar gráficos e visualizações mais detalhadas no dashboard.
   - [ ] Melhorar a validação dos formulários e o feedback para o usuário.
+
 
